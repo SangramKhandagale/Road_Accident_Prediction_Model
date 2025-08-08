@@ -10,8 +10,8 @@ This system predicts road accident risks using advanced AI models trained on rea
 
 ### 1️⃣ Clone the Project
 ```bash
-git clone <your-repository-url>
-cd ACCIDENT-PREDICTION
+git clone https://github.com/SangramKhandagale/Road_Accident_Prediction_Model
+cd Road_Accident_Prediction_Model
 ```
 
 ### 2️⃣ Install Dependencies
